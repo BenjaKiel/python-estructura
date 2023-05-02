@@ -1,6 +1,5 @@
 import random
 
-
 arreglo = random.randint(10, 30)
 
 
