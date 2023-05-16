@@ -15,7 +15,7 @@ void main() {
 
   print('lista suma: $listaSumada');
 
-  listaSumada.removeRange(6, 8);
+  listaSumada.removeRange(7, 8);
 
   print('lista final: $listaSumada');
 }
